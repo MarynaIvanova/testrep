@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Welcome to Id Generator Motherfuckers!!!</h2>
+<h2>Welcome to Id Generator one more time!!!</h2>
 </body>
 </html>
